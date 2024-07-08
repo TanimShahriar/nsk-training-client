@@ -1,0 +1,18 @@
+@media screen and (max-width:576px) {
+  .Top {
+    display: none;
+
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+
+  .Top {
+    display: none;
+
+  }
+}
+
+@media screen and (min-width:767px) and (max-width:992px) {}
+
+@media screen and (min-width:992px) {}
